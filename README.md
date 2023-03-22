@@ -1,7 +1,7 @@
 # deploy-docker-example-voting-app-on-kubernetes-kubernetes
 Porject deploying the votting-app application using kubernetes on Google cloud.
 
-you can first create uour cluster on Google cloud and once connectes, clone this repository into it.
+you can first create your cluster on Google cloud and once connectes, clone this repository into it.
 
 Important, first run the memory-defaults file so that you can create all the pods without error using the following command:
 
