@@ -15,6 +15,8 @@ Some changes that i noticed are that now it is required to pass the user and pas
 
 the postgres service can remain the same.
 
+to run the pods and the services, use the command 'kubectl create -f' followed by the file name
+
 once everitihng is running, it will look like this:
 
 the services->
